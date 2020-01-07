@@ -1,4 +1,4 @@
-# Get-Live-Cooper-Price-With-VBA
+# Get-Live-Copper-Price-With-VBA
 
 
 This is a macro enabled Workbook which works on  MS Excel 2010+.
